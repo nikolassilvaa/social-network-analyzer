@@ -19,7 +19,7 @@ Este repositório contém um projeto de análise de redes sociais utilizando con
 
 ## Instalação
 
-1. Clone este repositório:
+1. Clone este repositório (coloque seu usuário):
 
 git clone https://github.com/seuusuario/social-network-analyzer.git
 cd social-network-analyzer
